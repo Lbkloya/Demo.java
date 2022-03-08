@@ -11,6 +11,12 @@ publi class demi{
        //logic
 
       }
+        
+        public void change(){
+        
+        //logic
+        
+        }
 
     }
 }
