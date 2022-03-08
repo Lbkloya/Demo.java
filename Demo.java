@@ -4,5 +4,11 @@ publi class demi{
       // logic goes here
         int i = 50;
         int j = 20;
+        
+        public void change(){
+        
+        //logic
+        
+        }
     }
 }
